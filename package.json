@@ -1,0 +1,23 @@
+{
+  "name": "typescriptjourney",
+  "version": "1.0.0",
+  "description": "1. Helps us catch errors during development\r 2. uses type annotations to analyze our code\r 3. only active during development\r 4. doesn't provide any performance optimization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mizzan/typescriptjourney.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mizzan/typescriptjourney/issues"
+  },
+  "homepage": "https://github.com/Mizzan/typescriptjourney#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
